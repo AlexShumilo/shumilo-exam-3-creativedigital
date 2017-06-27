@@ -11,8 +11,6 @@ $(document).ready(function(){
             } ]
 
     });
-});
-$(document).ready(function(){
     $('.team__slider').slick({
         dots: false,
         slidesToShow: 3,
